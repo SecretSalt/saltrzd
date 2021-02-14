@@ -14,7 +14,9 @@
       "https://i.pinimg.com/originals/a8/c8/85/a8c8855e4d784672666c7562e6fb5641.png"
     ],
     "איתי אדלמן": ["https://www.haaretz.co.il/st/c/static/heb/face/faces/oren_hazan/oren_hazan.jpg"],
-    "עידן אפרים": ["https://img.mako.co.il/2020/01/13/duvifran_i.jpg"]
+    "עידן אפרים": ["https://img.mako.co.il/2020/01/13/duvifran_i.jpg"],
+    "שון מנדל": ["https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTIwNjA4NjMzNzAzNzI4NjUy/john-cena-562300-1-402.jpg"],
+    "עדו כשר": ["https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTIwNjA4NjMzNzAzNzI4NjUy/john-cena-562300-1-402.jpg"]
   },
   "names": {
     "עמית אליה בר": ["ג'ון בכיר"],
@@ -24,7 +26,8 @@
     "נועה אלימלך": ["ג'ון אלימלך"],
     "איתי אדלמן": ["ג'ון אדלמן"],
     "שון מנדל": ["ג'ון משנה ודובר ג'ון"],
-    "עדו כשר": ["ג'ון משנה"]
+    "עדו כשר": ["ג'ון משנה"],
+    "תמר טל": ["ג'וןטל"]
   },
   "big": {
     "words": {
@@ -40,8 +43,10 @@
       "שיטה": ["מקום מגעיל רצח"],
       "חדר סגל": ["טירת הרשע"],
       "חדס": ["ארמון שלנו"],
-      "צהריים טובים לכולם": ["עד מתי קורס רצד"],
-      "צהריים טובים": ["אין לי כוח כבר לקורס הזה"]
+      "צהריים טובים לכולם": ["עד מתי קורס רצ\"ד"],
+      "צהריים טובים": ["אין לי כוח כבר לקורס הזה"],
+      "מפק\"צ": ["בייביסיטר"],
+      "מפק\"ץ": ["בייביסטר"]
     },
     "imgs": {
       "שחר גלעדי": [
@@ -63,7 +68,10 @@
         "https://www.thesun.co.uk/wp-content/uploads/2020/11/NINTCHDBPICT000395354152.jpg"
       ],
       "איתי אדלמן": ["https://www.haaretz.co.il/st/c/static/heb/face/faces/oren_hazan/oren_hazan.jpg"],
-      "עידן אפרים": ["https://img.mako.co.il/2020/01/13/duvifran_i.jpg"]
+      "עידן אפרים": ["https://img.mako.co.il/2020/01/13/duvifran_i.jpg"],
+      "שון מנדל": ["https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTIwNjA4NjMzNzAzNzI4NjUy/john-cena-562300-1-402.jpg"],
+      "עדו כשר": ["https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTIwNjA4NjMzNzAzNzI4NjUy/john-cena-562300-1-402.jpg"],
+      "שירזה": ["https://media-exp1.licdn.com/dms/image/C4D0BAQE5g7jMfIcbuw/company-logo_200_200/0/1592530048757?e=2159024400&v=beta&t=dKcma7uC8LiL8ypP1OaD4uMurhi9VO8hbwuRe0_SPyI"]
     },
     "names": {
       "שחר גלעדי": ["המפקד מגה"],
@@ -75,7 +83,8 @@
       "נועה אלימלך": ["ג'ון אלימלך"],
       "איתי אדלמן": ["ג'ון אדלמן"],
       "שון מנדל": ["ג'ון משנה ודובר ג'ון"],
-      "עדו כשר": ["ג'ון משנה"]
+      "עדו כשר": ["ג'ון משנה"],
+      "תמר טל": ["ג'וןטל"]
     }
   }
 }
